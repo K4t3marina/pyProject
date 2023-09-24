@@ -1,4 +1,4 @@
-nums = [3,3]
+nums = [3, 20, 75,8 ,86, 3]
 target = 6
 r = []
 for i in range(len(nums)):
